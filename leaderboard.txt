@@ -1,0 +1,5 @@
+Computer 100
+Computer 80
+Computer 60
+Computer 40
+Computer 20
